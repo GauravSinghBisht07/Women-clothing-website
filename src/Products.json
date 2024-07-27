@@ -1,0 +1,236 @@
+[
+    
+    {
+        "id":"12",
+        "delivery" : "free",
+        "brand" : "Zara",
+        "name" : "Sarara",
+        "price": 1900,
+        "img" : "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/e/2/tr:w-480,/e26cce8SS_PN-1.jpg?rnd=20200526195200",
+        "type" : "traditional",
+        "Simg" : {
+            "img1" : "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-160,/pub/media/catalog/product/e/2/e26cce8SS_PN-2.jpg?rnd=20200526195200",
+            "img2" : "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-160,/pub/media/catalog/product/e/2/e26cce8SS_PN-5.jpg?rnd=20200526195200",
+            "img3" : "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-160,/pub/media/catalog/product/e/2/e26cce8SS_PN-3.jpg?rnd=20200526195200"
+        }
+    },
+    {
+        "id":"1",
+        "brand" : "Zara",
+        "name" : "Long Western dress",
+        "price": 2300,
+        "img": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/6/f/tr:w-480,/6fe1431RHIGHS00003157_1.jpg?rnd=20200526195200",
+        "type" : "western",
+        "Simg" : {
+            "img1" : "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-160,/pub/media/catalog/product/6/f/6fe1431RHIGHS00003157_4.jpg?rnd=20200526195200",
+            "img2" : "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-160,/pub/media/catalog/product/6/f/6fe1431RHIGHS00003157_2.jpg?rnd=20200526195200",
+            "img3" : "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-160,/pub/media/catalog/product/6/f/6fe1431RHIGHS00003157_3.jpg?rnd=20200526195200"
+        }
+
+    },
+    {
+        "id":"8",
+        "brand" : "Zara",
+        "delivery" : "free",
+        "name" : "Anarkali",
+        "price": 1500,
+        "img" : "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/1/2/tr:w-480,/12bb237RHOGASS261_1.jpg?rnd=20200526195200",
+        "type" : "traditional",
+        "Simg" : {
+            "img1" : "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-160,/pub/media/catalog/product/1/2/12bb237RHOGASS261_2.jpg?rnd=20200526195200",
+            "img2" : "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-160,/pub/media/catalog/product/1/2/12bb237RHOGASS261_5.jpg?rnd=20200526195200",
+            "img3" : "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-160,/pub/media/catalog/product/1/2/12bb237RHOGASS261_3.jpg?rnd=20200526195200"
+        }
+    },
+    {
+        "id":"2",
+        "delivery" : "free",
+        "brand" : "Zara",
+        "name" : "Long Western dress",
+        "price": 1500,
+        "img" : "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/3/6/tr:w-480,/369f629TP0521CP15_1.jpg?rnd=20200526195200",
+        "type" : "western",
+        "Simg" : {
+            "img1" : "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-160,/pub/media/catalog/product/3/6/369f629TP0521CP15_1.jpg?rnd=20200526195200",
+            "img2" : "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-160,/pub/media/catalog/product/3/6/369f629TP0521CP15_3.jpg?rnd=20200526195200",
+            "img3" : "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-160,/pub/media/catalog/product/3/6/369f629TP0521CP15_4.jpg?rnd=20200526195200"
+        }
+        
+    },
+    {
+        "id":"7",
+        "brand" : "Zara",
+        "name" : "Sari",
+        "price": 1500,
+        "img" : "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/a/e/tr:w-480,/ae0107bLBL101KS394_1.jpg?rnd=20200526195200",
+        "type" : "traditional",
+        "Simg" : {
+            "img1" : "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-160,/pub/media/catalog/product/a/e/ae0107bLBL101KS394_2.jpg?rnd=20200526195200",
+            "img2" : "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-160,/pub/media/catalog/product/a/e/ae0107bLBL101KS394_3.jpg?rnd=20200526195200",
+            "img3" : "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-160,/pub/media/catalog/product/a/e/ae0107bLBL101KS394_7.jpg?rnd=20200526195200"
+        }
+    },
+    {
+        "id":"3",
+        "brand" : "Ambodery",
+        "name" : "Long Western dress",
+        "price": 1200,
+        "img" : "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/b/6/tr:w-480,/b68f878Ruby-224-Pink_1.jpg?rnd=20200526195200",
+        "type" : "western",
+        "Simg" : {
+            "img1" : "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-160,/pub/media/catalog/product/b/6/b68f878Ruby-224-Pink_2.jpg?rnd=20200526195200",
+            "img2" : "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-160,/pub/media/catalog/product/b/6/b68f878Ruby-224-Pink_3.jpg?rnd=20200526195200",
+            "img3" : "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-160,/pub/media/catalog/product/b/6/b68f878Ruby-224-Pink_6.jpg?rnd=20200526195200"
+        }
+
+    },
+    {
+        "id":"14",
+        "brand" : "Zara",
+        "name" : "anarkali",
+        "price": 1500,
+        "img" : "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/4/1/tr:w-480,/41ce775LBL101KS437_1.jpg?rnd=20200526195200",
+        "type" : "traditional",
+        "Simg" : {
+            "img1" : "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-160,/pub/media/catalog/product/4/1/41ce775LBL101KS437_10.jpg?rnd=20200526195200",
+            "img2" : "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-160,/pub/media/catalog/product/4/1/41ce775LBL101KS437_18.jpg?rnd=20200526195200",
+            "img3" : "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-160,/pub/media/catalog/product/4/1/41ce775LBL101KS437_2.jpg?rnd=20200526195200"
+        }
+    },
+    {
+        "id":"4",
+        "delivery" : "free",
+        "brand" : "Zara",
+        "name" : "Long Western dress",
+        "price": 1900,
+        "img" : "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/4/7/tr:w-480,/471b7c4Maxi-037-Zigzag_1.jpg?rnd=20200526195200",
+        "type" : "western",
+        "Simg" : {
+            "img1" : "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-160,/pub/media/catalog/product/4/7/471b7c4Maxi-037-Zigzag_2.jpg?rnd=20200526195200",
+            "img2" : "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-160,/pub/media/catalog/product/4/7/471b7c4Maxi-037-Zigzag_5.jpg?rnd=20200526195200",
+            "img3" : "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-160,/pub/media/catalog/product/4/7/471b7c4Maxi-037-Zigzag_6.jpg?rnd=20200526195200"
+        }
+    },
+    {
+        "id":"5",
+        "brand" : "Zara",
+        "name" : "Long Western dress",
+        "price": 1500,
+        "img" : "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/a/f/tr:w-480,/af1b3c0DR833BLAC_1.jpg?rnd=20200526195200",
+        "type" : "western",
+        "Simg" : {
+            "img1" : "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-160,/pub/media/catalog/product/a/f/af1b3c0DR833BLAC_2.jpg?rnd=20200526195200",
+            "img2" : "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-160,/pub/media/catalog/product/a/f/af1b3c0DR833BLAC_5.jpg?rnd=20200526195200",
+            "img3" : "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-160,/pub/media/catalog/product/a/f/af1b3c0DR833BLAC_6.jpg?rnd=20200526195200"
+        }
+    },
+    {
+        "id":"6",
+        "brand" : "Zara",
+        "name" : "Long Western dress",
+        "price": 1500,
+        "img" : "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/1/2/tr:w-480,/12e4c03NH_GAJRA00003931_1.jpg?rnd=20200526195200",
+        "type" : "western",
+        "Simg" : {
+            "img1" : "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-160,/pub/media/catalog/product/1/2/12e4c03NH_GAJRA00003931_4.jpg?rnd=20200526195200",
+            "img2" : "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-160,/pub/media/catalog/product/1/2/12e4c03NH_GAJRA00003931_5.jpg?rnd=20200526195200",
+            "img3" : "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-160,/pub/media/catalog/product/1/2/12e4c03NH_GAJRA00003931_6.jpg?rnd=20200526195200"
+        }
+    },
+    {
+        "id":"13",
+        "brand" : "Zara",
+        "name" : "Sarara",
+        "price": 3500,
+        "img" : "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/7/a/tr:w-480,/7a91cf4LBL101KS584_1.jpg?rnd=20200526195200",
+        "type" : "traditional",
+        "Simg" : {
+            "img1" : "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-160,/pub/media/catalog/product/7/a/7a91cf4LBL101KS584_2.jpg?rnd=20200526195200",
+            "img2" : "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-160,/pub/media/catalog/product/7/a/7a91cf4LBL101KS584_5.jpg?rnd=20200526195200",
+            "img3" : "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-160,/pub/media/catalog/product/7/a/7a91cf4LBL101KS584_6.jpg?rnd=20200526195200"
+        }
+    },
+    {
+        "id":"15",
+        "delivery" : "free",
+        "brand" : "Zara",
+        "name" : "Long Western dress",
+        "price": 1500,
+        "img" : "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/1/6/tr:w-480,/16129d9ORN072_1.jpg?rnd=20200526195200",
+        "type" : "western",
+        "Simg" : {
+            "img1" : "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-160,/pub/media/catalog/product/1/6/16129d9ORN072_2.jpg?rnd=20200526195200",
+            "img2" : "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-160,/pub/media/catalog/product/1/6/16129d9ORN072_3.jpg?rnd=20200526195200",
+            "img3" : "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-160,/pub/media/catalog/product/1/6/16129d9ORN072_4.jpg?rnd=20200526195200"
+        }
+    },
+    {
+        "id":"8",
+        "delivery" : "free",
+        "brand" : "Zara",
+        "name" : "Long Western dress",
+        "price": 1500,
+        "img" : "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/1/a/tr:w-480,/1a09e2bWS-06_1.jpg?rnd=20200526195200",
+        "type" : "western",
+        "Simg" : {
+            "img1" : "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-160,/pub/media/catalog/product/1/a/1a09e2bWS-06_4.jpg?rnd=20200526195200",
+            "img2" : "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-160,/pub/media/catalog/product/1/a/1a09e2bWS-06_5.jpg?rnd=20200526195200",
+            "img3" : "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-160,/pub/media/catalog/product/1/a/1a09e2bWS-06_6.jpg?rnd=20200526195200"
+        }
+    },
+
+    
+
+
+
+
+
+
+    {
+        "id":"9",
+        "brand" : "Sabyasachi",
+        "name" : "Warm Fashion suit",
+        "price": 3300,
+        "img": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/9/9/tr:w-480,/99fa218SAYMEH01_1.jpg?rnd=20200526195200",
+        "type" : "traditional",
+        "Simg" : {
+            "img1" : "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-160,/pub/media/catalog/product/9/9/99fa218SAYMEH01_2.jpg?rnd=20200526195200",
+            "img2" : "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-160,/pub/media/catalog/product/9/9/99fa218SAYMEH01_5.jpg?rnd=20200526195200",
+            "img3" : "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-160,/pub/media/catalog/product/9/9/99fa218SAYMEH01_6.jpg?rnd=20200526195200"
+        }
+
+    },
+    {
+        "id":"10",
+        "delivery" : "free",
+        "brand" : "Zara",
+        "name" : "Black party lehenga",
+        "price": 3800,
+        "img" : "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/2/e/tr:w-480,/2e18c44IW_DW_0.jpg?rnd=20200526195200",
+        "type" : "traditional",
+        "Simg" : {
+            "img1" : "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-160,/pub/media/catalog/product/2/e/2e18c44IW_DW_1.jpg?rnd=20200526195200",
+            "img2" : "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/2/e/tr:w-480,/2e18c44IW_DW_2.jpg?rnd=20200526195200",
+            "img3" : "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-160,/pub/media/catalog/product/2/e/2e18c44IW_DW_3.jpg?rnd=20200526195200"
+        }
+        
+    },
+    {
+        "id":"11",
+        "brand" : "Ambodery",
+        "name" : "pink light lelehnga",
+        "price": 1200,
+        "img" : "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/9/8/tr:w-480,/98f161aNF_GAJRA00002876_1.jpg?rnd=20200526195200",
+        "type" : "traditional",
+        "Simg" : {
+            "img1" : "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-160,/pub/media/catalog/product/9/8/98f161aNF_GAJRA00002876_4.jpg?rnd=20200526195200",
+            "img2" : "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-160,/pub/media/catalog/product/9/8/98f161aNF_GAJRA00002876_5.jpg?rnd=20200526195200",
+            "img3" : "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-160,/pub/media/catalog/product/9/8/98f161aNF_GAJRA00002876_8.jpg?rnd=20200526195200"
+        }
+
+    }
+   
+  
+    
+
+]
